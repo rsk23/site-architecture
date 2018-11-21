@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+}
+header{
+  background-color: rgb(3, 163, 223);
+  /*color: 03a3df;*/
+}
+footer{
+  /*background-color: rgb(3, 163, 223);*/
+  /*color: 03a3df;*/
+  background-image: url("../images/footerImage.jpg");
+  height: 500px;
+  width: 1628px;
+  color: white;
+}
